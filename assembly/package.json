@@ -1,0 +1,13 @@
+{
+  "name": "assembly-test",
+  "description": "",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "gulp build"
+  },
+  "author": "Floris de Haan",
+  "devDependencies": {
+    "assemblyscript": "github:AssemblyScript/assemblyscript",
+    "gulp": "^4.0.2"
+  }
+}
