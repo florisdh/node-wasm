@@ -1,0 +1,13 @@
+{
+  "name": "node-assembly",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "12.3.1"
+  },
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node --experimental-modules --experimental-wasm-modules src/main.mjs"
+  },
+  "author": "Floris de Haan"
+}
