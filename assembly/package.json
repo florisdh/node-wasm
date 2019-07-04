@@ -7,7 +7,7 @@
   },
   "author": "Floris de Haan",
   "devDependencies": {
-    "assemblyscript": "github:AssemblyScript/assemblyscript",
+    "assemblyscript": "github:AssemblyScript/assemblyscript#v0.6",
     "gulp": "^4.0.2"
   }
 }
